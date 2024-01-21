@@ -1,0 +1,25 @@
+Employee: REiz, CarviW E, Position: WFS000532, Worked less than 10 hours in total for the pay cycle
+Employee: MraW, WiXXiaC Ha, Position: WFS000345, Less than 10 hours between shifts
+Employee: WiXGard, Shadrack, Position: WFS000436, Worked less than 10 hours in total for the pay cycle
+Employee: Sparks, KeWWeMh, Position: WFS000101, Worked less than 10 hours in total for the pay cycle
+Employee: CEreira Jr, JEse, Position: WFS000456, Less than 10 hours between shifts
+Employee: REdrigAez, GraWdEW AWgeX, Position: WFS000550, Less than 10 hours between shifts
+Employee: Xee, XaCar, Position: WFS000200, Less than 10 hours between shifts
+Employee: Xee, XaCar, Position: WFS000200, Less than 10 hours between shifts
+Employee: Xee, XaCar, Position: WFS000200, Less than 10 hours between shifts
+Employee: CarMer, XyWWeXX DejAaW Jr, Position: WFS000576, Worked less than 10 hours in total for the pay cycle
+Employee: RECerE, SergiE, Position: WFS000420, Worked less than 10 hours in total for the pay cycle
+Employee: ArveXE RECerE, AWdres JesAs, Position: WFS000591, Worked less than 10 hours in total for the pay cycle
+Employee: MErres, EdAardE, Position: WFS000174, Worked less than 10 hours in total for the pay cycle
+Employee: KaAr, ArviWder, Position: WFS000432, Worked less than 10 hours in total for the pay cycle
+Employee: De Xa Cerda, IgWaciE, Position: WFS000318, Less than 10 hours between shifts
+Employee: Ware, JEshAa, Position: WFS000256, Worked less than 10 hours in total for the pay cycle
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523, More than 14 hours in a single shift
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523, Less than 10 hours between shifts
+Employee: XEpes, JerrEd, Position: WFS000196, Worked less than 10 hours in total for the pay cycle
+Employee: HaCiXMEW, DeaWMe DevEW, Position: WFS000536, Less than 10 hours between shifts
+Employee: PearsEW, DeXviW DevEW, Position: WFS000529, Worked less than 10 hours in total for the pay cycle
+Employee: SEMEsEXis, Richar SMeveW, Position: WFS000553, Worked less than 10 hours in total for the pay cycle
+Employee: SiWgh, PraGhjEM, Position: WFS000054, Worked less than 10 hours in total for the pay cycle
+Employee: CaMaXaWE, CeghaW, Position: WFS000153, Less than 10 hours between shifts
+Employee: CaMaXaWE, CeghaW, Position: WFS000153, Less than 10 hours between shifts
